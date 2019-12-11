@@ -16,7 +16,7 @@ client.on('message', msg => {
     msg.channel.send('Hello! :smile:');
   }
   if (msg.content === 'hello') {
-    msg.channel.send('Hello ! :smile:');
+    msg.channel.send('Hello! :smile:');
   }
 });
 
